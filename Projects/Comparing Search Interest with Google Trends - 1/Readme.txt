@@ -1,7 +1,7 @@
 
 Project Tools
 
-In this project I used Python with pandas for  time series data analysis and data visualization (plot) for Google trend search interest analysis.
+In this project I used Python with pandas for  time series data analysis and data visualization (plot) for Google trend with search interest analysis.
 
 
 
