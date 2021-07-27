@@ -1,4 +1,9 @@
 
+Project Tools
+
+In this project I used Python with pandas for time series data analysis and data visualization (plot,subplot) for Google trend with search interest analysis.
+
+
 Project Description
 
 Time series data is everywhere; from temperature records, to unemployment rates, to the S&P 500 Index. Another rich source of time series data is Google Trends, 
