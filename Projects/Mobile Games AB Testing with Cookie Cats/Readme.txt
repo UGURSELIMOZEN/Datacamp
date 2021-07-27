@@ -1,4 +1,9 @@
 
+Project Tools
+
+In this project I used Python with pandas data analysis and data visualization (histogram , kde plots) , AB testing method and Bootstrap analysis with probability approach .
+
+
 
 Project Description
 
