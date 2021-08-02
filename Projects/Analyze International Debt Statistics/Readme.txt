@@ -1,7 +1,7 @@
 
 Project Tools
 
-In this project I used  PostrgreSQL .
+In this project I used  PostgreSQL .
 
 
 Project Description
