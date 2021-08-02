@@ -1,6 +1,12 @@
 
 Project Tools
 
+In this project I used Python with pandas for  datapreprocessing , data cleaning for example missing values 
+with matplotlib for  data visualization (plot , subplot , histogram  , trend-observation plot) 
+with statsmodel and resample to make statistical time-based data analysis as an  example weekly or annualy statistics , averages , trends and their plots  
+lastly , detailed summary report with describe and stack methods
+
+
 
 Project Description
 
@@ -14,8 +20,8 @@ What were my best achievements?
 How do I perform compared to others?
 
 
-I exported seven years worth of my training data from Runkeeper. The data is a CSV file where each row is a single training activity. 
-In this project, you'll create import, clean, and analyze my data to answer the above questions. You can then apply the same strategy to your training data if you wish!
+Seven years worth of  training data has exported  from Runkeeper. The data is a CSV file where each row is a single training activity. 
+In this project, I'll create import, clean, and analyze for data to answer the above questions.
 
 
 Project Tasks
