@@ -2,7 +2,7 @@
 Project Tools
 
 In this project , I used twitter user's JSON datas to make data manipulation with pandas  , frequency analysis and visualization using histogram 
-for hot trends ,used languages  with matplotlib .
+for hot trends ,used languages  with matplotlib.
 
 
 
