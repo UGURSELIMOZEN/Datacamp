@@ -3,7 +3,7 @@ Project Tools
 
 
 In this project , I used Python with pandas for data manipulating , with seaborn basic plots  and  statistical inference analysis , 
-two-sample bootstrap hypothesis tests for difference of means.
+two-sample bootstrap hypothesis tests for difference of means and also linear regression modeling.
 
 
 
