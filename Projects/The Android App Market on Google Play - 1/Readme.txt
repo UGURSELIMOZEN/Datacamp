@@ -2,7 +2,7 @@
 Project Tools
 
 Through a series of guided steps, harness your complete data analyst toolbox to perform data wrangling, create visualizations, 
-and carry out a descriptive , sentiment and inferential analysis with Python.
+and carry out a descriptive , sentiment and inferential analysis with Python's pandas , matplotlib and seaborn.
 
 
 Project Description
