@@ -1,7 +1,7 @@
 Project Tools
 
 
-In this project , I used Python with pandas for data manipulating  and with matplotlib data visualization
+In this project , I used Python with pandas for data cleaning ,manipulating , merging  and with matplotlib data visualization (bar plot , histogram)
 for History of Scala Language.
 
 
@@ -32,3 +32,5 @@ Project Tasks
 8. Who made the last ten pull requests on a given file?
 9. The pull requests of two special developers
 10. Visualizing the contributions of each developer
+
+
