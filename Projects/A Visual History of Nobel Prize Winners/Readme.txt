@@ -1,6 +1,6 @@
 Project Tools
 
-In this project I used Python with pandas for  exploratory data analysis and with seaborn for  data visualization (plot) about Nobel Prize Winners.
+In this project I used Python with pandas for  exploratory data analysis and with matplotlib,seaborn for  data visualization (lineplot , lmplot) about Nobel Prize Winners.
 
 
 
