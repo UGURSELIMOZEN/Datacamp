@@ -1,6 +1,6 @@
 Project Tools
 
-In this project, I used Python with pandas for data cleaning , data preprocessing and exploratory data analysis
+In this project, I used Python with numpy , pandas for data cleaning , data preprocessing and exploratory data analysis
 with scikit-learn for building , fitting , predicting , evaluating and hyperparameter tuning (GridSearchCV) to 
 find best performance to a logistic regression model. 
 
